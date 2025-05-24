@@ -1,5 +1,5 @@
-## Nama : Renaldi Muhammad Fauzi 
-## Nim  : 220220027
+## Nama : Farid Hirdayatulloh Tambunan
+## Nim  : 220320009
 ## Universitas Muhammadiyah Banten 
 
 
