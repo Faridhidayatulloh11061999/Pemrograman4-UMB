@@ -66,15 +66,15 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 
 ---
 ## 📱Tampilan Login 
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login.png?raw=true)
+![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/LOGIN.png?raw=true)
 ## 📲Tampilan Register
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/Register.png?raw=true)
+![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/REGISTER.png?raw=true)
 ## 📵Login Gagal
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20gagal.png?raw=true)
+![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/EMAIL%20TIDAK%20ADA.png?raw=true)
 ## ⛔Password kurang dari 6 karakter
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/password%20kurang.png?raw=true)
+![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/KARAKTER%206.png?raw=true)
 ## ✅Login Berhasil
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20berhasil.png?raw=true)
+![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/LOGIN%20BERHASIL.png?raw=true)
 ## 🛠️ Tools & Teknologi
 
 - Java
